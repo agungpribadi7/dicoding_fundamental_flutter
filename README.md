@@ -2,7 +2,7 @@
 
 Fitur aplikasi memiliki sifat berlanjut untuk tiap submissionnya.
 
-**Submission (1/3)**
+# Submission (1/3)
 
 **Fitur yang harus ada pada aplikasi**
 
@@ -16,7 +16,7 @@ Menampilkan detail informasi ketika salah satu item ditekan.
 
 
 
-**Submission (2/3)**
+# Submission (2/3)
 
 **Fitur yang harus ada pada aplikasi**
 
@@ -39,7 +39,7 @@ Menggunakan salah satu state management seperti provider, bloc, redux, dsb.
 
 
 
-**Submission (3/3)**
+# Submission (3/3)
 
 **Fitur yang harus ada pada aplikasi:**
 
