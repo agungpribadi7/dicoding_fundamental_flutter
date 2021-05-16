@@ -1,16 +1,46 @@
-# submission2
+# Dicoding Fundamental Flutter
 
-A new Flutter project.
+Fitur aplikasi memiliki sifat berlanjut untuk tiap submissionnya.
 
-## Getting Started
+**Submission (1/3)**
 
-This project is a starting point for a Flutter application.
+**Daftar restoran**
+Menampilkan daftar restoran dengan informasi singkat.
 
-A few resources to get you started if this is your first Flutter project:
+**Detail restoran**
+Menampilkan detail informasi ketika salah satu item ditekan.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Submission (2/3)**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Fitur yang harus ada pada aplikasi**
+
+**Daftar restoran**
+Menampilkan daftar restoran dengan informasi singkat dari API.
+Menampilkan gambar restoran yang didapat dari API.
+
+**Detail restoran**
+Menampilkan detail informasi ketika salah satu item ditekan.
+Menampilkan gambar restoran yang didapat dari API.
+
+**Pencarian restoran**
+Menampilkan hasil pencarian restoran berdasarkan menu atau nama restoran.
+Terdapat indikator loading saat aplikasi memuat data.
+Menampilkan pesan error yang mudah dipahami oleh user ketika aplikasi diakses tanpa koneksi internet.
+Menggunakan salah satu state management seperti provider, bloc, redux, dsb.
+
+
+**Submission (3/3)**
+
+**Fitur yang harus ada pada aplikasi:**
+
+**Favorite Restaurant**
+Pengguna harus bisa menambah dan menghapus restoran dari daftar favorit.
+Aplikasi harus mempunyai halaman untuk menampilkan daftar favorit.
+Menampilkan halaman detail dari daftar favorit.
+
+**Daily Reminder**
+Terdapat pengaturan untuk menghidupkan dan mematikan reminder di halaman setting.
+Daily reminder untuk menampilkan restoran secara acak pada pukul 11.00 AM.
+
+**Testing**
+Menuliskan minimal satu skenario pengujian untuk memverifikasi proses parsing json telah berhasil.
