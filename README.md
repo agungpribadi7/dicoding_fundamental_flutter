@@ -4,6 +4,8 @@ Fitur aplikasi memiliki sifat berlanjut untuk tiap submissionnya.
 
 **Submission (1/3)**
 
+**Fitur yang harus ada pada aplikasi**
+
 **Daftar restoran**
 
 Menampilkan daftar restoran dengan informasi singkat.
@@ -11,6 +13,8 @@ Menampilkan daftar restoran dengan informasi singkat.
 **Detail restoran**
 
 Menampilkan detail informasi ketika salah satu item ditekan.
+
+
 
 **Submission (2/3)**
 
@@ -32,6 +36,7 @@ Menampilkan hasil pencarian restoran berdasarkan menu atau nama restoran.
 Terdapat indikator loading saat aplikasi memuat data.
 Menampilkan pesan error yang mudah dipahami oleh user ketika aplikasi diakses tanpa koneksi internet.
 Menggunakan salah satu state management seperti provider, bloc, redux, dsb.
+
 
 
 **Submission (3/3)**
